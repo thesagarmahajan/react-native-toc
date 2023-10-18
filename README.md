@@ -3,6 +3,22 @@
 ## Main Areas
 - JavaScript & ES6 Concepts (Pre-requisite)
 - Working with UI
+- React Concepts
+- Handling User Inputes
+- Interacting with backend REST API
+- React Native APIs
+- Navigations
+- Debuggin React Native App
+- Optimising app performance and resource usage
+- Accessing Native Device Components
+- Redux
+
+## Detailed TOC
+- JavaScript & ES6 Concepts (Pre-requisite)
+- Working with UI
+    - React UI Components
+        - Inputes
+        - 
     - Building screen adaptive UI
     - IOS & Android UI Styling differences
 - React Concepts
@@ -19,8 +35,21 @@
     - Props
 - Handling User Inputes
 - Interacting with backend REST API
+- React Native APIs
+    - Share (Share something on sharable apps like social media apps.)
+    - Toast (Uninteractable Alert Message)
+    - Permissions (e.g. Accessing Camera)
+    - BackHandler (Are you sure you want to go back?)
+    - ALert Box
+    - Animated (Animating Elements)
+    - DevSettings (API for Developers while Development)
+    - Dimensions (Device height width etc.)
+    - Linking (Open other app links including HTTP & HTTPS)
 - Navigations
 - Debuggin React Native App
+    - Debugging Basics
+    - React Developer Tools
+    - Native Debugging
 - Optimising app performance and resource usage
 - Accessing Native Device Components
 - Redux
